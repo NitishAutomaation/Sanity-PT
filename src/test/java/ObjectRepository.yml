@@ -1,0 +1,31 @@
+Home Page:
+Page name:
+   ClosepopupLinkXPATH: ""
+   SearchkeywordstTextBoxXPATH: "//input[@placeholder='Search for products and more...']"
+   SearchTriggersrButtonXPATH: "//div[@class='search-bar-content-textSearch-icon']"
+   SizeButtonXPATH: "//div[@class='size size-web ']//span"
+   CartIconLinkXPATH: "//div[@class='cart-icon']//a"
+   PlaceOrderButtonXPATH: "//button[contains(text(),'CHECKOUT')]"
+Current Screen:
+   ImagesrLinkXPATH: "//div[@class='PlpWeb_product-image__1VeLy ']"
+   AddToCartsrLinkXPATH: "//span[text()='ADD TO BAG']"
+   GotobagButtonXPATH: "//span[.='GO TO BAG']"
+   HomeLinkXPATH: "//a[@title='Pantaloons']"
+   CartLinkXPATH: "(//img[@title='Remove item'])**//button[contains(text(),'REMOVE')]"
+   HomeWishlisticonButtonXPATH: "//div[@class='nav-header-wishlist-icon']"
+   productsLinkXPATH: "//div[@class='wishlist_my-wishlist-cross__23h1Q']"
+Page1:
+   ScrollTextBoxXPATH: ""
+   waitTextBoxXPATH: ""
+   capturedateTextBoxXPATH: "abc"
+   mobilenumberTextBoxXPATH: "//input[@placeholder='Mobile Number']"
+   vfyenteredmobilenumberornotLabelXPATH: "//input[@placeholder='Mobile Number']"
+   CheckoutloginaftervfyLabelXPATH: "//p[@class='MuiTypography-root MuiTypography-body1']"
+   vfyeemptycartLabelXPATH: "//div[@class='EmptyCart_message__3nba0']"
+Sign in:
+   EmaillgTextBoxXPATH: "//input[@placeholder='Mobile Number']"
+   NextButtonXPATH: "//span[.='Get OTP']"
+   PasswordlgTextBoxXPATH: "//input[@type='password']"
+   Next1ButtonXPATH: "//span[.='Start Shopping']"
+Pantaloons Saved Items:
+   emptywishlistLabelXPATH: "//div[@class='wishlist_wishlist-title-container__Is0ny']"

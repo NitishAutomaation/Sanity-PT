@@ -1,0 +1,9 @@
+#Test1 test data
+Searchkeywordst1: "Jeans"
+Scroll1: "1"
+wait1: "10"
+capturedate1: "https://api.pantaloons.com/cart/addToCart&id_cart"
+mobilenumber1: "4499999999"
+Emaillg1: "4499999999"
+Passwordlg1: "123456"
+
